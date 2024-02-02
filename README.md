@@ -21,5 +21,3 @@ This is a simple console-based Tic Tac Toe game written in C. It allows two play
 ## Code Structure
 
 - `tic_tac_toe.c`: The main source code file containing the game logic.
-- (You can add more details if your project structure is more complex.)
-
